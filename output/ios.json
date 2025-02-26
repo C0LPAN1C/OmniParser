@@ -1,0 +1,24 @@
+icon 0: {'type': 'text', 'bbox': [0.3442029058933258, 0.5189732313156128, 0.42391303181648254, 0.5345982313156128], 'interactivity': False, 'content': 'blind', 'source': 'box_ocr_content_ocr'}
+icon 1: {'type': 'text', 'bbox': [0.7584540843963623, 0.51953125, 0.9347826242446899, 0.5345982313156128], 'interactivity': False, 'content': 'ActiveShield', 'source': 'box_ocr_content_ocr'}
+icon 2: {'type': 'icon', 'bbox': [0.0712747648358345, 0.20560641586780548, 0.25322225689888, 0.3037199378013611], 'interactivity': True, 'content': ' Journal ', 'source': 'box_yolo_content_ocr'}
+icon 3: {'type': 'icon', 'bbox': [0.5070317387580872, 0.2061232477426529, 0.7308865785598755, 0.3041527569293976], 'interactivity': True, 'content': 'NetEase Music ', 'source': 'box_yolo_content_ocr'}
+icon 4: {'type': 'icon', 'bbox': [0.0695829838514328, 0.08813125640153885, 0.2514125406742096, 0.1864604502916336], 'interactivity': True, 'content': 'Translate ', 'source': 'box_yolo_content_ocr'}
+icon 5: {'type': 'icon', 'bbox': [0.2952268719673157, 0.08853642642498016, 0.47882863879203796, 0.1859961897134781], 'interactivity': True, 'content': ' Freeform ', 'source': 'box_yolo_content_ocr'}
+icon 6: {'type': 'icon', 'bbox': [0.27555015683174133, 0.20608815550804138, 0.4948659837245941, 0.30467870831489563], 'interactivity': True, 'content': 'Ticketmaster ', 'source': 'box_yolo_content_ocr'}
+icon 7: {'type': 'icon', 'bbox': [0.7552419304847717, 0.08894654363393784, 0.9311695694923401, 0.18632684648036957], 'interactivity': True, 'content': 'Twitter ', 'source': 'box_yolo_content_ocr'}
+icon 8: {'type': 'icon', 'bbox': [0.04469675198197365, 0.43891435861587524, 0.27399274706840515, 0.537952721118927], 'interactivity': True, 'content': 'OffScreen ', 'source': 'box_yolo_content_ocr'}
+icon 9: {'type': 'icon', 'bbox': [0.5068156123161316, 0.3223579227924347, 0.7233021259307861, 0.4226531982421875], 'interactivity': True, 'content': 'ESPN ', 'source': 'box_yolo_content_ocr'}
+icon 10: {'type': 'icon', 'bbox': [0.735159695148468, 0.20432281494140625, 0.9623631238937378, 0.30302590131759644], 'interactivity': True, 'content': 'COVID-19/Coro... ', 'source': 'box_yolo_content_ocr'}
+icon 11: {'type': 'icon', 'bbox': [0.5051215887069702, 0.4392973780632019, 0.7263650298118591, 0.5429812073707581], 'interactivity': True, 'content': 'WORLD HYATT. Hyatt ', 'source': 'box_yolo_content_ocr'}
+icon 12: {'type': 'icon', 'bbox': [0.7321880459785461, 0.3223474323749542, 0.9453511834144592, 0.42028355598449707], 'interactivity': True, 'content': 'CookUnity ', 'source': 'box_yolo_content_ocr'}
+icon 13: {'type': 'icon', 'bbox': [0.40106651186943054, 0.8147786855697632, 0.5987594723701477, 0.8507272601127625], 'interactivity': True, 'content': 'Q Search ', 'source': 'box_yolo_content_ocr'}
+icon 14: {'type': 'icon', 'bbox': [0.8908414840698242, 0.01310818176716566, 0.9639373421669006, 0.04329480975866318], 'interactivity': True, 'content': '4 ', 'source': 'box_yolo_content_ocr'}
+icon 15: {'type': 'icon', 'bbox': [0.05285999923944473, 0.013683207333087921, 0.19139190018177032, 0.04093393683433533], 'interactivity': True, 'content': '4:03 : ', 'source': 'box_yolo_content_ocr'}
+icon 16: {'type': 'icon', 'bbox': [0.640640914440155, 0.8809081315994263, 0.7210990190505981, 0.9134467840194702], 'interactivity': True, 'content': '38 ', 'source': 'box_yolo_content_ocr'}
+icon 17: {'type': 'icon', 'bbox': [0.5292715430259705, 0.08903898298740387, 0.7136598825454712, 0.18801288306713104], 'interactivity': True, 'content': 'A shortcut or file.', 'source': 'box_yolo_content_yolo'}
+icon 18: {'type': 'icon', 'bbox': [0.049262531101703644, 0.3223111629486084, 0.27329015731811523, 0.423057496547699], 'interactivity': True, 'content': 'A symbol or symbol related to Chinese characters.', 'source': 'box_yolo_content_yolo'}
+icon 19: {'type': 'icon', 'bbox': [0.27937233448028564, 0.322176456451416, 0.4976999759674072, 0.4215385317802429], 'interactivity': True, 'content': 'Refresh or reload the page.', 'source': 'box_yolo_content_yolo'}
+icon 20: {'type': 'icon', 'bbox': [0.7508853077888489, 0.8924278020858765, 0.9281274080276489, 0.9681892395019531], 'interactivity': True, 'content': 'A note or note-taking application.', 'source': 'box_yolo_content_yolo'}
+icon 21: {'type': 'icon', 'bbox': [0.2897407114505768, 0.8923254013061523, 0.47211626172065735, 0.9670522809028625], 'interactivity': True, 'content': 'A phone call or messaging application.', 'source': 'box_yolo_content_yolo'}
+icon 22: {'type': 'icon', 'bbox': [0.8338924646377563, 0.014453725889325142, 0.8900215029716492, 0.042068712413311005], 'interactivity': True, 'content': 'a low-to-high profile or avatar.', 'source': 'box_yolo_content_yolo'}
+icon 23: {'type': 'icon', 'bbox': [0.19425977766513824, 0.8810281753540039, 0.2582980692386627, 0.9113340377807617], 'interactivity': True, 'content': 'A notification indicating one or a notification.', 'source': 'box_yolo_content_yolo'}

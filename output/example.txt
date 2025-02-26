@@ -1,0 +1,25 @@
+icon 0: {'type': 'text', 'bbox': [0.79296875, 0.1940104216337204, 0.93359375, 0.2252604216337204], 'interactivity': False, 'content': ' Authentic....', 'source': 'box_ocr_content_ocr'}
+icon 1: {'type': 'text', 'bbox': [0.0911458358168602, 0.33203125, 0.1744791716337204, 0.4075520932674408], 'interactivity': False, 'content': 'M', 'source': 'box_ocr_content_ocr'}
+icon 2: {'type': 'text', 'bbox': [0.54296875, 0.6901041865348816, 0.6875, 0.7174479365348816], 'interactivity': False, 'content': ' AccountA...', 'source': 'box_ocr_content_ocr'}
+icon 3: {'type': 'text', 'bbox': [0.2916666567325592, 0.93359375, 0.4388020932674408, 0.96484375], 'interactivity': False, 'content': 'Snapchat', 'source': 'box_ocr_content_ocr'}
+icon 4: {'type': 'icon', 'bbox': [0.08673331141471863, 0.9321665167808533, 0.18024133145809174, 0.9649930596351624], 'interactivity': True, 'content': 'Discord ', 'source': 'box_yolo_content_ocr'}
+icon 5: {'type': 'icon', 'bbox': [0.1681886464357376, 0.7733006477355957, 0.2225857526063919, 0.8226169943809509], 'interactivity': True, 'content': '17 ', 'source': 'box_yolo_content_ocr'}
+icon 6: {'type': 'icon', 'bbox': [0.08820883184671402, 0.19239789247512817, 0.17567682266235352, 0.22622424364089966], 'interactivity': True, 'content': 'Fitness ', 'source': 'box_yolo_content_ocr'}
+icon 7: {'type': 'icon', 'bbox': [0.31154218316078186, 0.4373360872268677, 0.4150358736515045, 0.47388240694999695], 'interactivity': True, 'content': ' Azure ', 'source': 'box_yolo_content_ocr'}
+icon 8: {'type': 'icon', 'bbox': [0.10689067840576172, 0.6823368072509766, 0.1573360413312912, 0.719106137752533], 'interactivity': True, 'content': 'Mail ', 'source': 'box_yolo_content_ocr'}
+icon 9: {'type': 'icon', 'bbox': [0.3336487114429474, 0.6857205033302307, 0.426497220993042, 0.7190437316894531], 'interactivity': True, 'content': 'Outlook ', 'source': 'box_yolo_content_ocr'}
+icon 10: {'type': 'icon', 'bbox': [0.054643210023641586, 0.43738535046577454, 0.17160892486572266, 0.47238123416900635], 'interactivity': True, 'content': 'Meraki ', 'source': 'box_yolo_content_ocr'}
+icon 11: {'type': 'icon', 'bbox': [0.5415788292884827, 0.934031069278717, 0.6835063099861145, 0.9656143188476562], 'interactivity': True, 'content': 'ChatGPT ', 'source': 'box_yolo_content_ocr'}
+icon 12: {'type': 'icon', 'bbox': [0.291369765996933, 0.19437278807163239, 0.473656564950943, 0.22318768501281738], 'interactivity': True, 'content': 'Open Posterboard ', 'source': 'box_yolo_content_ocr'}
+icon 13: {'type': 'icon', 'bbox': [0.7861139178276062, 0.44905778765678406, 0.9383836388587952, 0.47692373394966125], 'interactivity': True, 'content': ' GooglePh.... ', 'source': 'box_yolo_content_ocr'}
+icon 14: {'type': 'icon', 'bbox': [0.3788619339466095, 0.5275627374649048, 0.4698610007762909, 0.5743376016616821], 'interactivity': True, 'content': '1,516 ', 'source': 'box_yolo_content_ocr'}
+icon 15: {'type': 'icon', 'bbox': [0.07292347401380539, 0.5239987373352051, 0.22170458734035492, 0.5809060335159302], 'interactivity': True, 'content': '5,011 ', 'source': 'box_yolo_content_ocr'}
+icon 16: {'type': 'icon', 'bbox': [0.809039831161499, 0.7909076809883118, 0.9493771195411682, 0.9308307766914368], 'interactivity': True, 'content': 'CISCO ', 'source': 'box_yolo_content_ocr'}
+icon 17: {'type': 'icon', 'bbox': [0.59168940782547, 0.4388754665851593, 0.6712560057640076, 0.4714224636554718], 'interactivity': True, 'content': 'Webex ', 'source': 'box_yolo_content_ocr'}
+icon 18: {'type': 'icon', 'bbox': [0.7948086261749268, 0.9313600659370422, 0.9596989154815674, 0.9666208624839783], 'interactivity': True, 'content': 'Cisco Security ', 'source': 'box_yolo_content_ocr'}
+icon 19: {'type': 'icon', 'bbox': [0.8396219611167908, 0.6856637001037598, 0.9187620282173157, 0.7183865904808044], 'interactivity': True, 'content': 'Twitch ', 'source': 'box_yolo_content_ocr'}
+icon 20: {'type': 'icon', 'bbox': [0.5632804036140442, 0.1932416707277298, 0.6607969403266907, 0.2259085774421692], 'interactivity': True, 'content': 'the symbol for "Refresh" or "Reflection" function.', 'source': 'box_yolo_content_yolo'}
+icon 21: {'type': 'icon', 'bbox': [0.7855028510093689, 0.2059314250946045, 0.9381479620933533, 0.2318333238363266], 'interactivity': True, 'content': 'A symbol or symbol indicating an option to change the font style.', 'source': 'box_yolo_content_yolo'}
+icon 22: {'type': 'icon', 'bbox': [0.28854456543922424, 0.9452729821205139, 0.4373807907104492, 0.9703624844551086], 'interactivity': True, 'content': 'A symbol or symbol related to something or a symbol.', 'source': 'box_yolo_content_yolo'}
+icon 23: {'type': 'icon', 'bbox': [0.5333003997802734, 0.6988399624824524, 0.6898736357688904, 0.7250857353210449], 'interactivity': True, 'content': 'A bookmarking or bookmarking function.', 'source': 'box_yolo_content_yolo'}
+icon 24: {'type': 'icon', 'bbox': [0.6688478589057922, 0.28115954995155334, 0.72393399477005, 0.33266282081604004], 'interactivity': True, 'content': 'A notification indicating one unread message.', 'source': 'box_yolo_content_yolo'}
